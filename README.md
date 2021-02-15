@@ -37,9 +37,9 @@ We created an endpoint responsible for loading the data into the memory of the A
 Allied to the concept of pipelines we have a great and powerful tool allowing to make filters for each section that made the request bringing only the relevant data to the request. A great utility is to enable the distribution of graphics to multiple clients, without the need to access the data source, thus allowing a great speed when "rendering" the images.
 
 
-![Image](https://drive.google.com/file/d/1j6KNtQeK7gE6iqhndsWD6buI0cpA-XCB/view)
+![myimage](https://ibb.co/MBDHprb)
+
 
 [Apresentacao](https://docs.google.com/presentation/d/1TGYnrwaXUET69iAyNnC6CZDiY5yUv4p_FQZLa7aPnqk/edit?usp=sharing)
 *Presentation is in portugueses only
-
 [Dashboard Utilizando os conceitos](https://danielfreitas.shinyapps.io/ubs_brasil/)
