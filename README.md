@@ -36,9 +36,15 @@ We created an endpoint responsible for loading the data into the memory of the A
 
 Allied to the concept of pipelines we have a great and powerful tool allowing to make filters for each section that made the request bringing only the relevant data to the request. A great utility is to enable the distribution of graphics to multiple clients, without the need to access the data source, thus allowing a great speed when "rendering" the images.
 
+## Project
+
+Veja abaixo a imagem explicando um pouco mais sobre os endpoints do projeto e seus conceitos. Recomendo utilizar o seguinte [data frame](http://repositorio.dados.gov.br/saude/unidades-saude/unidade-basica-saude/ubs.csv) para efetuar o primeiro teste.
+
+See the image below the explaining about the project's endpoints and their concepts. I recommend using the following [data frame](http://repositorio.dados.gov.br/saude/unidades-saude/unidade-basica-saude/ubs.csv) to perform your first test.
 
 ![myimage](https://github.com/danielglasserfreitas/api-plumber-example/blob/main/PlumberAPI.png?raw=true)
 
 [Apresentacao](https://docs.google.com/presentation/d/1TGYnrwaXUET69iAyNnC6CZDiY5yUv4p_FQZLa7aPnqk/edit?usp=sharing)
 *Presentation is in portugueses only
+
 [Dashboard Utilizando os conceitos](https://danielfreitas.shinyapps.io/ubs_brasil/)
